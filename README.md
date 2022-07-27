@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<div align="center">
+<h1>
+  Hi, I am Vidushi Tickoo
+</h1>
+</div>
 <!--
 **v03012000/v03012000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
