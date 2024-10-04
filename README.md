@@ -3,15 +3,15 @@
   Hi, I am Vidushi Tickoo
 </h1>
 <h3>
-  Java Developer
+  Full Stack Developer
 </h3>
 </div
 
 <div>
 <ul>
-  <li>I am currently working on Java, Spring</li>
-  <li>I am currently looking for Full Time opportunities for SDE role</li>
-  <li>Worked at BNY Mellon Technology as SDE intern </li>
+  <li>I am currently working on Java, Spring, Angular</li>
+  <li> Software Developer at BNY - Bank Of New York | PershingX (one of the oldest banks of US)</li>
+  <li> Building Wove</li>
   <li>You can reach out to me : <a href="mailto:oshintickoo2000@gmail.com">oshintickoo2000@gmail.com</a></li>
 </ul>
 </div>
