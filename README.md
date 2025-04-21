@@ -26,8 +26,10 @@ Skills:
 <li>Messaging & Caching: Kafka, RabbitMQ (AMQP), Redis, Hazelcast, Amazon SQS</li>
 </ul>
 Always eager to connect with fellow professionals and explore new opportunities in the tech world.
-LinkedIn: https://www.linkedin.com/in/v03012000/
-Email: oshintickoo2000@gmail.com
+<ul>
+<li>LinkedIn: https://www.linkedin.com/in/v03012000/</li>
+<li>Email: oshintickoo2000@gmail.com</li>
+</ul>
 </div>
 
 <!--
