@@ -18,12 +18,13 @@ As part of the Regulatory & Compliance team at BNY, Vidushi has worked on key pr
 She is passionate about continuous learning and staying abreast of the latest industry trends. With a strong problem-solving mindset and a commitment to excellence, she aims to contribute to impactful projects and collaborate with professionals across the tech industry.
 
 Skills:
-Programming Languages: C++, Java, JavaScript, TypeScript, Go - GoLang, Python
-Frameworks & Libraries: Spring, Spring Boot, Hibernate, Django, Flask, Node.js, Express, Angular, Cordova, React.js
-Databases: MongoDB, Oracle, PostgreSQL, MySQL, Solr/ElasticSearch
-Tools/ Platforms: Git, Microsoft Azure, Docker, Unix/Linux Shell Scripts, Splunk, Grafana, AppDynamics, Maven
-Messaging & Caching: Kafka, RabbitMQ (AMQP), Redis, Hazelcast, Amazon SQS
-
+<ul>
+<li>Programming Languages: C++, Java, JavaScript, TypeScript, Go - GoLang, Python</li>
+<li>Frameworks & Libraries: Spring, Spring Boot, Hibernate, Django, Flask, Node.js, Express, Angular, Cordova, React.js</li>
+<li>Databases: MongoDB, Oracle, PostgreSQL, MySQL, Solr/ElasticSearch</li>
+<li>Tools/ Platforms: Git, Microsoft Azure, Docker, Unix/Linux Shell Scripts, Splunk, Grafana, AppDynamics, Maven</li>
+<li>Messaging & Caching: Kafka, RabbitMQ (AMQP), Redis, Hazelcast, Amazon SQS</li>
+</ul>
 Always eager to connect with fellow professionals and explore new opportunities in the tech world.
 LinkedIn: https://www.linkedin.com/in/v03012000/
 Email: oshintickoo2000@gmail.com
