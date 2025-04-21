@@ -8,12 +8,25 @@
 </div
 
 <div>
-<ul>
-  <li>I am currently working on Java, Spring, Angular</li>
-  <li> Software Developer at BNY - Bank Of New York | PershingX (one of the oldest banks of US)</li>
-  <li> Building Wove</li>
-  <li>You can reach out to me : <a href="mailto:oshintickoo2000@gmail.com">oshintickoo2000@gmail.com</a></li>
-</ul>
+
+Vidushi is a dedicated Full Stack Developer with approximately 3 years of experience in crafting robust software solutions. Beginning as a Software Developer Intern at BNY, she quickly transitioned into a full-time role, gaining hands-on experience across a diverse range of projects and technologies.
+
+Her technical toolkit includes Spring, Spring Boot, Hibernate, JPA, RESTful/SOAP API's, Databases like Oracle, MongoDB, MySQL, PostgreSQL, Solr search, Angular, Microservices and Micro Frontend technologies, through which she has built dynamic, high-performance applications from the ground up. Her contributions have consistently driven innovation and efficiency.
+
+As part of the Regulatory & Compliance team at BNY, Vidushi has worked on key projects with regulatory requirements such as disclosures and the capture and retention of reports. This role has provided extensive exposure to both frontend and backend technologies, resulting in a comprehensive understanding of the software development lifecycle.
+
+She is passionate about continuous learning and staying abreast of the latest industry trends. With a strong problem-solving mindset and a commitment to excellence, she aims to contribute to impactful projects and collaborate with professionals across the tech industry.
+
+Skills:
+Programming Languages: C++, Java, JavaScript, TypeScript, Go - GoLang, Python
+Frameworks & Libraries: Spring, Spring Boot, Hibernate, Django, Flask, Node.js, Express, Angular, Cordova, React.js
+Databases: MongoDB, Oracle, PostgreSQL, MySQL, Solr/ElasticSearch
+Tools/ Platforms: Git, Microsoft Azure, Docker, Unix/Linux Shell Scripts, Splunk, Grafana, AppDynamics, Maven
+Messaging & Caching: Kafka, RabbitMQ (AMQP), Redis, Hazelcast, Amazon SQS
+
+Always eager to connect with fellow professionals and explore new opportunities in the tech world.
+LinkedIn: https://www.linkedin.com/in/v03012000/
+Email: oshintickoo2000@gmail.com
 </div>
 
 <!--
