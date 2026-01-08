@@ -33,6 +33,19 @@ Always eager to connect with fellow professionals and explore new opportunities 
 </ul>
 </div>
 
+🚀 **Featured Projects**
+Here are some of my public projects on GitHub:
+
+- 🔗 **[My-original-signature-forged-signature-classifier](https://github.com/v03012000/My-original-signature-forged-signature-classifier)** – A notebook-based classifier that determines if an image of a signature is genuine.  
+- 🔗 **[LLDPrep](https://github.com/v03012000/LLDPrep)** – Collection of object-oriented design & low-level design questions in Java.  
+- 🔗 **[DSA](https://github.com/v03012000/DSA)** – Data structures & algorithms practice problems implemented in Java OR CPP.  
+- 🔗 **[sprinBootBasics](https://github.com/v03012000/sprinBootBasics)** – Basic Spring Boot application examples.   
+- 🔗 **[Note-it-down](https://github.com/v03012000/Note-it-down)** – TypeScript web app for creating & managing notes.  
+- 🔗 **[meme-searcher](https://github.com/v03012000/meme-searcher)** – Meme searcher built with JavaScript.  
+- 🔗 **[notes-keeper](https://github.com/v03012000/notes-keeper)** – Simple JavaScript notes management web app.  
+
+*(Links open in a new tab — click to explore the code!)*
+
 <!--
 **v03012000/v03012000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
