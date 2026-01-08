@@ -1,21 +1,22 @@
 <div align="center">
-<h1>
-  Hi, I am Vidushi Tickoo
-</h1>
-<h3>
-  Full Stack Developer
-</h3>
-</div
+  <h1>Hi, I am Vidushi Tickoo</h1>
+  <h3>Software Engineer 2 @ JP Morgan Chase & Co.</h3>
+</div>
 
 <div>
 
-Vidushi is a dedicated Full Stack Developer with approximately 3 years of experience in crafting robust software solutions. Beginning as a Software Developer Intern at BNY, she quickly transitioned into a full-time role, gaining hands-on experience across a diverse range of projects and technologies.
+Vidushi is a dedicated Software Engineer with ~3+ years of experience in building robust, scalable, and high-quality software systems. She is currently working as a **Software Engineer 2 at JP Morgan Chase & Co.**, where she contributes to designing and developing enterprise-grade solutions in a fast-paced, high-impact environment.
 
-Her technical toolkit includes Spring, Spring Boot, Hibernate, JPA, RESTful/SOAP API's, Databases like Oracle, MongoDB, MySQL, PostgreSQL, Solr search, Angular, Microservices and Micro Frontend technologies, through which she has built dynamic, high-performance applications from the ground up. Her contributions have consistently driven innovation and efficiency.
+She began her professional journey as a Software Developer Intern at **BNY**, quickly transitioning into a full-time role. During her time at BNY, she gained hands-on experience across a diverse range of projects and technologies, working closely with cross-functional teams.
 
-As part of the Regulatory & Compliance team at BNY, Vidushi has worked on key projects with regulatory requirements such as disclosures and the capture and retention of reports. This role has provided extensive exposure to both frontend and backend technologies, resulting in a comprehensive understanding of the software development lifecycle.
+Her technical toolkit includes **Spring, Spring Boot, Hibernate, JPA, RESTful/SOAP APIs, relational and NoSQL databases (Oracle, MongoDB, MySQL, PostgreSQL), Solr Search, Angular, Microservices, and Micro Frontend architectures**, enabling her to build dynamic, high-performance applications end-to-end.
 
-She is passionate about continuous learning and staying abreast of the latest industry trends. With a strong problem-solving mindset and a commitment to excellence, she aims to contribute to impactful projects and collaborate with professionals across the tech industry.
+As part of the **Regulatory & Compliance team at BNY**, Vidushi worked on critical projects involving regulatory disclosures and report capture and retention, gaining deep exposure to both frontend and backend systems and developing a strong understanding of the complete software development lifecycle.
+
+She is passionate about continuous learning, clean design, and solving complex problems at scale. With a strong problem-solving mindset and a commitment to engineering excellence, she aims to contribute to impactful products and collaborate with talented engineers across the tech ecosystem.
+
+</div>
+
 
 Skills:
 <ul>
